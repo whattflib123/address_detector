@@ -13,16 +13,16 @@
 - #### 開倉相關訊息
 
     <p align="center">
-    <img src="pic/position_open.jpg" width="200">
-    <img src="pic/position_close.jpg" width="200">
-    <img src="pic/position_add.jpg" width="200">
-    <img src="pic/position_minus.jpg" width="200">
+    <img src="pic/position_open.jpg" width="300">
+    <img src="pic/position_close.jpg" width="300">
+    <img src="pic/position_add.jpg" width="300">
+    <img src="pic/position_minus.jpg" width="300">
     </p>
-- #### 持倉相關訊息
+- #### 掛單相關訊息
 
     <p align="center">
-    <img src="pic/order_add.jpg" width="200">
-    <img src="pic/order_minus.jpg" width="200">
+    <img src="pic/order_add.jpg" width="300">
+    <img src="pic/order_minus.jpg" width="300">
     </p>
 
 ---
