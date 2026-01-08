@@ -31,7 +31,7 @@ pip install pandas requests numpy hyperliquid
       }
       ```
     - Telegram Bot Token 與 Chat ID
-    - CSV 檔案路徑（訂單與持倉）
+    - CSV 檔案路徑（用來儲存訂單與持倉資料）
 
 3. 透過**排程**決定多久執行一次主程式： main.py
 
@@ -105,4 +105,5 @@ pip install pandas requests numpy hyperliquid
     </p>
 
 ---
+
 
