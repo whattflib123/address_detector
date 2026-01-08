@@ -22,6 +22,14 @@ pip install pandas requests numpy hyperliquid
 2. 在 config.py 設定：
 
     - 欲監控的錢包地址 (需為hyperliquid上的錢包地址)
+      ```python
+      wallets = {
+          "自定義錢包名": "錢包地址",
+          # example
+          "🟢 波段大師 (持倉時間極短)": "0xc2a30212a8ddac9e123944d6e29faddce994e5f2",
+          "🔵 100%勝率 (低倍槓桿)": "0x4e8d91cb10b32ca351ac8f1962f33514a96797f4",
+      }
+      ```
     - Telegram Bot Token 與 Chat ID
     - CSV 檔案路徑（訂單與持倉）
 
@@ -97,3 +105,4 @@ pip install pandas requests numpy hyperliquid
     </p>
 
 ---
+
